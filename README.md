@@ -110,6 +110,16 @@ Normalized MySQL database with JOINs, GROUP BY, and subqueries for sales, custom
 
 <br>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AyushGarg589/AyushGarg589/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+
+</div>
+
+<br>
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=AyushGarg589&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge"/>

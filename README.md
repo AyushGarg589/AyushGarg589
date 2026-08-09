@@ -25,7 +25,7 @@
 - 📊 Skilled in turning messy, large datasets (100K+ rows) into clear dashboards and insights
 - 🏛️ **IEEE Student Branch Member** · **CSSS Technical Member** @ RKGIT
 - 🏆 Represented Team ARJUNA at **Daksh Sparkfest Hackathon** — led backend & database (MySQL)
-- 🛠️ Currently building a **Job/Internship Portal** (Django) as a college mini-project
+- 🛠️ Currently building a **ERP Portal** (Django) as a college mini-project
 - 🎯 Open to: **Data Analyst · BI Analyst · Business Analyst · Product Analyst** roles
 
 <br>

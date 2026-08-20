@@ -100,15 +100,6 @@ Normalized MySQL database with JOINs, GROUP BY, and subqueries for sales, custom
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AyushGarg589&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
 
 ## 🐍 Contribution Snake
 

@@ -104,7 +104,7 @@ Normalized MySQL database with JOINs, GROUP BY, and subqueries for sales, custom
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGarg589&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=AyushGarg589&theme=tokyonight&hide_border=true"/>
 
 </div>
 

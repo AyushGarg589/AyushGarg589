@@ -178,12 +178,23 @@ Excel · Pivot Tables · Power Query
 - **Power BI for Beginners** — Simplilearn, in collaboration with Microsoft
 - **Advanced SQL for Query Tuning and Performance Optimization** — LinkedIn Learning
 
-## 04 / GitHub Signals
+## 04 / GitHub Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AyushGarg589&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=059669&text_color=6B7280" alt="GitHub statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGarg589&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=6B7280" alt="Most used languages" />
+<a href="https://github.com/AyushGarg589">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyushGarg589&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=58A6FF&include_all_commits=true" alt="Ayush Garg's GitHub statistics" />
+</a>
+<a href="https://github.com/AyushGarg589">
+  <img width="49%" src="https://streak-stats.demolab.com?user=AyushGarg589&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/AyushGarg589?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=AyushGarg589&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -191,12 +202,8 @@ Excel · Pivot Tables · Power Query
 
 <div align="center">
 
-**Backend thinking × Data curiosity × Continuous improvement**
+### Backend thinking. Data curiosity. Continuous improvement.
 
-<sub>Open to learning, collaborating, and growing through real-world software and analytics projects.</sub>
-
-<br><br>
-
-![Profile views](https://komarev.com/ghpvc/?username=AyushGarg589&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
+<sub>Building practical projects, strengthening fundamentals, and learning through every iteration.</sub>
 
 </div>

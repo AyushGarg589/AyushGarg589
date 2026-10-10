@@ -1,56 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:2563EB&height=190&section=header&text=Ayush%20Garg&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20Developer%20%7C%20Django%20%7C%20Backend%20Engineering&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:172554,100:064E3B&height=210&section=header&text=AYUSH%20GARG&fontSize=54&fontColor=F9FAFB&fontAlignY=40&desc=PYTHON%20DEVELOPER%20%20%2F%20%20DJANGO%20%20%2F%20%20DATA%20ANALYTICS&descSize=16&descColor=93C5FD&descAlignY=67" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+useful+things+with+Python;Django+%7C+Backend+Logic+%7C+Relational+Databases;From+Data+Models+to+Working+Applications;Learn.+Build.+Debug.+Improve.)](https://git.io/typing-svg)
+### I build backend systems. I explore data. I turn problems into practical solutions.
 
-<a href="https://www.linkedin.com/in/garg-aayush"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ayushaggarwal276@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/AyushGarg589"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/garg-aayush)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushaggarwal276@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=flat-square&logo=github)](https://github.com/AyushGarg589)
 
 </div>
 
+---
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## 👋 About Me
 
-I'm a Computer Science student focused on **Python development, Django, and backend engineering**. I enjoy understanding how an application works beneath the interface—from designing data models and writing business logic to querying a database and shaping a maintainable project structure.
+I'm a Computer Science student building my path across **Python backend development and data analytics**.
 
-My approach is practical: **understand the problem, design the data flow, build the feature, and improve it through testing and iteration.**
+I enjoy working on both sides of a problem: how applications are structured and how their data can be used to make better decisions. I strengthen my fundamentals through projects, database work, and hands-on practice.
 
-- 🐍 **Core focus:** Python, Django, backend development, and SQL
-- 🏗️ **Currently building:** EduTrack / EduERP, a Django-based institute management project
-- 🗃️ **Database experience:** Relational schema design, MySQL, joins, aggregation, and data analysis
-- 🧩 **Engineering habits:** Modular code, readable structure, Git-based version control, and continuous learning
-- 📊 **Additional strength:** Power BI and Excel—useful for turning application data into meaningful insights
-- 🎓 **Education:** B.Tech in Computer Science and Engineering, graduating in 2028
+- **Building now:** EduTrack / EduERP — an ongoing Django institute-management project
+- **Backend interests:** Python, Django, REST APIs, relational databases
+- **Analytics interests:** SQL, Power BI, Excel, data preparation and dashboards
+- **Education:** B.Tech, Computer Science & Engineering · Expected 2028
 
-I'm interested in opportunities where I can contribute, learn from experienced engineers, and grow as a **Python Developer, Django Developer, or Backend Software Engineer**.
+</td>
+<td width="42%" valign="top">
 
-## 🧰 Tech Stack
+## 🧩 Developer Snapshot
 
-**Languages & backend**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white" />
+<pre>
+developer = {
+  "primary": "Python",
+  "backend": ["Django", "REST APIs"],
+  "databases": [
+    "MySQL",
+    "MongoDB (Basic)"
+  ],
+  "analytics": [
+    "SQL", "Power BI",
+    "Excel", "Pandas"
+  ],
+  "currently": "Building & learning"
+}
+</pre>
 
-**Databases & developer tools**
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+</table>
 
-**Data & analytics**
-<br>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+## 01 / Engineering Toolkit
 
-## 🚀 Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-0F766E?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript Basic](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases & tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB Basic](https://img.shields.io/badge/MongoDB-Basic-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### Data analytics & BI
+
+![SQL](https://img.shields.io/badge/SQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**What I work on**
+- Data cleaning and exploratory analysis
+- KPI dashboards and business reporting
+- SQL joins, aggregations and subqueries
+- Data modeling and dashboard storytelling
+
+</td>
+</tr>
+</table>
+
+## 02 / Selected Work
 
 <table>
 <tr>
@@ -58,81 +103,87 @@ I'm interested in opportunities where I can contribute, learn from experienced e
 
 ### 🏫 [EduTrack / EduERP](https://github.com/AyushGarg589/EduERP)
 
-A Django-based institute management project focused on organizing academic and administrative workflows. An ongoing project where I'm developing my understanding of application structure, database relationships, and maintainable backend features.
+**Backend application · In progress**
 
-**Focus:** Python · Django · SQL · HTML/CSS · Bootstrap
+A Django-based institute management project exploring academic workflows, application structure, and relational data modeling.
+
+Python · Django · MySQL · HTML/CSS
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Online Bookstore Database](https://github.com/AyushGarg589/MySQL-BookStore-Project)
+### 🗄️ [Online Bookstore Database](https://github.com/AyushGarg589/MySQL-BookStore-Project)
 
-A relational database project exploring bookstore sales, customer orders, and inventory using structured SQL queries.
+**SQL & database design**
 
-**Focus:** MySQL · Joins · Aggregations · Subqueries · Database design
+A relational database project analyzing bookstore orders, customers, sales, and inventory with practical SQL queries.
+
+MySQL · JOINs · Subqueries · Aggregation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [Blinkit Sales Dashboard](https://github.com/AyushGarg589/blinkit-sales-analysis-powerbi)
+### 📊 [Blinkit Sales Dashboard](https://github.com/AyushGarg589/blinkit-sales-analysis-powerbi)
 
-An interactive sales dashboard with KPI tracking and category/outlet performance analysis.
+**Business intelligence**
 
-**Focus:** Power BI · Power Query · DAX
+An interactive dashboard for tracking sales KPIs and exploring category and outlet performance.
+
+Power BI · DAX · Power Query
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛵 [Swiggy Performance Dashboard](https://github.com/AyushGarg589/swiggy-corporate-performance-dashboard)
 
-A business-focused dashboard presenting performance metrics with financial, demographic, and geographic views.
+**Analytics & visualization**
 
-**Focus:** Power BI · DAX · Data modeling
+A business-focused dashboard with financial, demographic, and geographic performance views.
+
+Power BI · DAX · Data Modeling
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏬 [US Superstore Sales Dashboard](https://github.com/AyushGarg589/Executive-Sales-Performance-Dashboard)
+### 🏬 [US Superstore Dashboard](https://github.com/AyushGarg589/Executive-Sales-Performance-Dashboard)
 
-An Excel dashboard exploring retail sales across multiple years with interactive filters and KPI summaries.
+**Excel analytics**
 
-**Focus:** Excel · Pivot Tables · Power Query
+A multi-year retail dashboard with interactive filters, KPI summaries, and geographic sales exploration.
+
+Excel · Pivot Tables · Power Query
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 What I'm Working to Improve
+### 🧠 How I approach problems
 
-- Writing clearer, reusable Python code
-- Strengthening Django and backend fundamentals
-- Designing reliable relational databases
-- Practicing problem-solving and core computer science concepts
+1. Understand the requirement and data
+2. Break it into manageable components
+3. Build, query, test, and debug
+4. Explain the result and iterate
 
 </td>
 </tr>
 </table>
 
-## 🏅 Learning & Credentials
+## 03 / Learning & Credentials
 
 - **AI-ML Virtual Internship** — Google for Developers · Outstanding grade
 - **Python Full Stack Virtual Internship** — EduSkills / AICTE
 - **Power BI for Beginners** — Simplilearn, in collaboration with Microsoft
 - **Advanced SQL for Query Tuning and Performance Optimization** — LinkedIn Learning
 
-*I aim to represent my skills through practical projects, explainable technical decisions, and steady improvement—not just a list of tools.*
-
-## 📈 GitHub Activity
+## 04 / GitHub Signals
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushGarg589&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGarg589&layout=compact&hide_border=true" alt="Most used languages" />
-
-<img src="https://raw.githubusercontent.com/AyushGarg589/AyushGarg589/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AyushGarg589&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=059669&text_color=6B7280" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGarg589&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=6B7280" alt="Most used languages" />
 
 </div>
 
@@ -140,8 +191,12 @@ An Excel dashboard exploring retail sales across multiple years with interactive
 
 <div align="center">
 
-**I build to understand. I debug to learn. I improve with every project.**
+**Backend thinking × Data curiosity × Continuous improvement**
 
-<img src="https://komarev.com/ghpvc/?username=AyushGarg589&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views" />
+<sub>Open to learning, collaborating, and growing through real-world software and analytics projects.</sub>
+
+<br><br>
+
+![Profile views](https://komarev.com/ghpvc/?username=AyushGarg589&style=flat-square&color=2563EB&label=PROFILE+VIEWS)
 
 </div>

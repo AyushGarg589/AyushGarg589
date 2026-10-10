@@ -101,7 +101,7 @@ developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏫 [EduTrack / EduERP](https://github.com/AyushGarg589/EduERP)
+### 🏫 [ EduERP ](https://github.com/AyushGarg589/EduERP-)
 
 **Backend application · In progress**
 
